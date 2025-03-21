@@ -5,11 +5,11 @@ import Footer from "./footer";
 
 const Master = () => {
   return (
-    <>
+    <div className="container">
       <Header />
       <Hero />
       <Footer />
-    </>
+    </div>
   );
 };
 

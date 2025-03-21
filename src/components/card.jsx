@@ -7,7 +7,7 @@ const Card = ({ name, location, id, img, date }) => {
       style={{ height: "30rem", width: "100%" }}
     >
       <img
-        src="src\assets\1.avif"
+        src="./assets/1.avif"
         className="w-75 mt-2 mb-2"
         style={{ height: "15rem" }}
       />

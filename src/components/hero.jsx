@@ -17,10 +17,7 @@ const Hero = () => {
       </p>
 
       <div className="mainsec d-flex gap-2 align-items-center bg-secondary text-white m-2">
-        <img
-          className="w-50"
-          src="/src/assets/event-1.e37c47c6656e8a5c0043.avif"
-        />
+        <img className="w-50" src="./assets/12.avif" />
         <div className="d-flex flex-column  align-items-center">
           <p className="">
             Connecting individuals across diverse communities by fostering

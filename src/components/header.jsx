@@ -6,7 +6,7 @@ const Header = () => {
       <nav className="navbar navbar-expand-lg bg-light ">
         <div className="container-fluid ">
           <img
-            src="src\assets\Logocommunion.0485ada0760e4748313f.png"
+            src="./assets/Logocommunion.0485ada0760e4748313f.png"
             style={{ height: "40px" }}
           />
           <button

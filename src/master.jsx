@@ -1,7 +1,7 @@
 import React from "react";
-import Header from "./header";
-import Hero from "./hero";
-import Footer from "./footer";
+import Header from "./components/header";
+import Hero from "./components/hero";
+import Footer from "./components/footer";
 
 const Master = () => {
   return (

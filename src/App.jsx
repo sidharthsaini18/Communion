@@ -1,6 +1,6 @@
 import { useState } from "react";
 import "./App.css";
-import Master from "./components/master";
+import Master from "./master";
 import { BrowserRouter, Routes, Route, Link } from "react-router-dom";
 import Events from "./components/events";
 import About from "./components/about";
